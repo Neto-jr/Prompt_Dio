@@ -39,4 +39,4 @@ Regra 5:
 - 5 dia  Minimo de 1 horas de teino, pequenos intervalos de 2 miniutos a cada exercicio
 
 # Resultado esperado
-com base nos vaores informados na área de variaveis e com as guidelines, crie um terino ideal ideal para a pessoa que corresponde a combinação desses 3 valores
+com base nos valores informados na área de variaveis e com as guidelines, crie um terino ideal ideal para a pessoa que corresponde a combinação desses valores
